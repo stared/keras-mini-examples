@@ -1,5 +1,5 @@
 # Keras mini examples
 
-by [http://p.migdal.pl/](Piotr Migdał)
+by [Piotr Migdał](http://p.migdal.pl/)
 
 To show it is easy to setup Keras and train small networks.
